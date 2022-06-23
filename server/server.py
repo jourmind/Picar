@@ -1,9 +1,9 @@
 #!/usr/bin/env/python
 # File name   : server.py
 # Production  : PiCar-C
-# Website	 : www.adeept.com
-# Author	  : William
-# Date		: 2019/11/21
+# Website	 : www.geniee-hub.com
+# Author	  : Daniel
+# Date		: 2022/6/21
 import servo
 servo.servo_init()
 import socket
